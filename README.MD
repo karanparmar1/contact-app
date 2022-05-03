@@ -2,4 +2,4 @@ Note: this is static directory from react app, you can find the source code belo
 
 source code: https://github.com/karanparmar1/react-demos/tree/master/contact-list
 
-Live Demo : http://karanparmar.me/contact-app
+Live Demo : karanparmar1.github.io/contact-app
